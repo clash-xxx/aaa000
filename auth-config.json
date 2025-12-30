@@ -1,0 +1,7 @@
+{
+  "authorizedDomains": [
+    "xb.aliyun.im",
+    "api.example.com",
+    "localhost"
+  ]
+}
